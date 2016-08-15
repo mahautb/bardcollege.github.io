@@ -107,8 +107,8 @@ var rules = {
     "Can you explain why you are suddenly ~y?",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "I dont fucking care about your problems",
+    "I dont care leave me alone",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
